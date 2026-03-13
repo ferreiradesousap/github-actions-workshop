@@ -10,5 +10,5 @@ jobs:
       - name: saudacao ao usuario
         run: echo "Olá mundo"
       - run: ls -l
-      - uses: acions/checkout@v6
+      - uses: actions/checkout@v6
       - run: ls -l
